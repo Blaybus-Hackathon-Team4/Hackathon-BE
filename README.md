@@ -19,18 +19,6 @@
 - **ORM**: Spring Data JPA
 - **빌드 도구**: Gradle
 
-## 📦 주요 의존성
-
-- `spring-boot-starter-web`: RESTful API 개발
-- `spring-boot-starter-data-jpa`: 데이터베이스 연동
-- `spring-boot-starter-security`: 인증 및 인가
-- `spring-boot-starter-oauth2-client`: OAuth2 클라이언트
-- `jjwt`: JWT(JSON Web Token) 라이브러리
-- `iamport-rest-client-java`: 아임포트 결제 연동 클라이언트
-- `google-api-services-calendar`: Google Calendar API 클라이언트
-- `spring-dotenv`: `.env` 파일을 이용한 환경변수 관리
-- `lombok`: 보일러플레이트 코드 감소
-
 ## 📂 프로젝트 구조
 
 ```
